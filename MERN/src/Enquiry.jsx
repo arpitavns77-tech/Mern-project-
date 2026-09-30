@@ -5,7 +5,7 @@
   import { Button, Checkbox, Label, TextInput,Textarea } from "flowbite-react";
   import { ToastContainer, toast } from 'react-toastify';
 
-  import { EnquiryList } from './enquiry/enquiryList';
+  import { EnquiryList } from './enquiry/EnquiryList';
   import Swal from 'sweetalert2/dist/sweetalert2.js'
 
   const Enquiry = () => {
